@@ -135,9 +135,21 @@ Hover_Debug_Overlay_Extension/
     └── Marquee_Promo_Tile.png
 ```
 
+---
+
+## License
+
+This project is licensed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html) - see the [LICENSE](LICENSE) file for details.
+
+---
+# Project Creator/Owner
+
+* This Project is  Created By Aman Lakhuja
+* [My-Github](https://github.com/AmanLakhuja)
 
 ---
 
 [![Hover_Debug_Overlay_Extension_Icon](screenshots_tutorial/Marquee_Promo_Tile.png)](https://chromewebstore.google.com/detail/hover-debug-overlay/dnhkakioabglpfiidamfmijkdncgmajo)
 
 ---
+
