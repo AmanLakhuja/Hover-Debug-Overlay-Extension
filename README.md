@@ -1,8 +1,6 @@
 
 # Hover Debug Overlay Extension ![Hover_Debug_Overlay_Extension_Icon](screenshots_tutorial/icon48.png)
 
-
-
 This document provides a detailed overview of the Hover Debug Overlay Chrome extension, including its features, installation steps, and usage instructions.
 
 ## 1. Introduction
@@ -17,9 +15,16 @@ This document provides a detailed overview of the Hover Debug Overlay Chrome ext
 
 ## 2. Tutorial 
 
+* Screenshot 1
+![First-Tutorial-Image](screenshots_tutorial/Screenshot_1_1280x800.png)
+
+* Screenshot 2
+![First-Tutorial-Image](screenshots_tutorial/Screenshot_2_1280x800.png)
+
+* Tutorial Video :- [Video-Guide](./screenshots_tutorial/Tutorial_Hover_Debug_Overlay_Extension_no_audio.mp4)
 
 <video width=100% controls>
-  <source src="screenshots_tutorial/Tutorial_Hover_Debug_Overlay_Extension.mp4" type="video/mp4">
+  <source src="./screenshots_tutorial/Tutorial_Hover_Debug_Overlay_Extension_no_audio" type="video/mp4">
 </video>
 
 ---
@@ -46,6 +51,11 @@ This document provides a detailed overview of the Hover Debug Overlay Chrome ext
 
 * **No Popup:** The extension operates without a popup, offering a faster and more direct user experience. All controls are handled via the main toolbar icon and the right-click context menu.
 
+* Remembers your settings using local storage
+
+* No data collection, no remote requests, no analytics
+
+
 ---
 
 ## 3. Installation
@@ -53,10 +63,13 @@ This document provides a detailed overview of the Hover Debug Overlay Chrome ext
 
 #### 1.  Method 1 :- Add it directly to your Browser Extentions
 
-* Open Google Chrome and navigate to chrome://extensions/
+* Click on this link and Click "Add to Chrome" :-  [Hover Debug Overlay](https://chromewebstore.google.com/detail/hover-debug-overlay/dnhkakioabglpfiidamfmijkdncgmajo)
 
+#### 2. Method 2 :- Searching it in Chrome Webstore
 
-#### 2. Method 2 :- To Download From Github and use it Locally
+* Go To [Chrome Webstore Extensions](https://chromewebstore.google.com/category/extensions) and Search **`Hover Debug Overlay`** and Click on "Add to Chrome"
+
+#### 3. Method 3 :- To Download From Github and use it Locally
 
 * Clone or download the extension's source code from the repository.
 
@@ -106,13 +119,25 @@ Hover_Debug_Overlay_Extension/
 │   ├── icon16.png
 │   ├── icon32.png
 │   ├── icon48.png
-│   └── icon128.png
+│   ├── icon128.png
+│   └── PRIVACY.md
 │
 ├── LICENSE
 ├── README.md
 └── screenshots_tutorial/
     ├── Tutorial_Hover_Debug_Overlay_Extension.mp4
-    └── icon48.png
+    ├── Tutorial_Hover_Debug_Overlay_Extension_no_audio.mp4
+    ├── icon48.png
+    ├── Screenshot_1_1280x800.png
+    ├── Screenshot_2_1280x800.png
+    ├── Screenshot_3_1280x800.png
+    ├── Screenshot_4_1280x800.png
+    └── Marquee_Promo_Tile.png
 ```
+
+
+---
+
+[![Hover_Debug_Overlay_Extension_Icon](screenshots_tutorial/Marquee_Promo_Tile.png)](https://chromewebstore.google.com/detail/hover-debug-overlay/dnhkakioabglpfiidamfmijkdncgmajo)
 
 ---
